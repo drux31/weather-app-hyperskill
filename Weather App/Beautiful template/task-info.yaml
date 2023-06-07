@@ -130,6 +130,12 @@ files:
     if __name__ == '__main__':
         FlaskProjectTest().run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/projects/164/stages/852/implement#comment
-status: Unchecked
+- name: web/web.zip
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/12326#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 07 Jun 2023 19:38:48 UTC"
 record: -1

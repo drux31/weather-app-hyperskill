@@ -3,14 +3,14 @@ hyperskill_project:
   ide_files: https://cogniterra.org/media/attachments/lesson/25377/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+update_date: "Wed, 07 Jun 2023 19:29:40 UTC"
 stages:
 - id: 851
   step: 12325
   is_completed: true
 - id: 852
   step: 12326
-  is_completed: false
+  is_completed: true
 - id: 853
   step: 12327
   is_completed: false
@@ -130,6 +130,8 @@ topics:
     theory_id: 11680
   - title: Exception handling
     theory_id: 6270
+  - title: Introduction to software architecture
+    theory_id: 15368
   - title: Inheritance
     theory_id: 9844
   - title: Inheritance in Python
@@ -140,8 +142,6 @@ topics:
     theory_id: 7629
   - title: User-defined exceptions
     theory_id: 10217
-  - title: Introduction to software architecture
-    theory_id: 15368
   - title: JSON
     theory_id: 6854
   - title: Basic data types
@@ -227,14 +227,14 @@ topics:
     theory_id: 16662
   - title: XML
     theory_id: 6901
-  - title: Basic UPDATE statement
-    theory_id: 9067
-  - title: Updating selected rows
-    theory_id: 9603
   - title: Data and object mapping
     theory_id: 8262
   - title: Object-Relational Mapping (ORM)
     theory_id: 8312
+  - title: Basic UPDATE statement
+    theory_id: 9067
+  - title: Updating selected rows
+    theory_id: 9603
   - title: Introduction to logging
     theory_id: 5538
   - title: Intro to SQL Alchemy
